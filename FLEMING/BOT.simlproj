@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimlProject>
+  <Profile>Modern</Profile>
+  <Name>BluePill</Name>
+  <Directory>BOT</Directory>
+  <BotName>Fleming</BotName>
+  <Personality>Doctor</Personality>
+  <Author>Bhyte</Author>
+  <Description>This AI should be able to diagnose diseases and prescribe treatments to the diseases</Description>
+  <Date>20-02-11 12:53:42.968</Date>
+  <Notes></Notes>
+</SimlProject>
