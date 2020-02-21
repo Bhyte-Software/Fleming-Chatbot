@@ -1,0 +1,107 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="smalltalk-greetings">
+    <!--Saying Hello-->
+    
+    <Intent>
+      <Expression Value="Hello" />
+      <Expression Value="Hi" />
+      <Expression Value="Hola" />
+      <Expression Value="Yo" />
+      <Expression Value="Sup" />
+      <Expression Value="Whats Up" />
+      <Expression Value="Whatsup" />
+      <Expression Value="Howdy" />
+      <Expression Value="Konnichiwa" />
+      <Expression Value="Greetings" />
+      <Expression Value="Salutations" />
+      <Expression Value="Aloha" />
+      <Expression Value="Hey" />
+      <Expression Value="Hiya" />
+      <Expression Value="Hi Bitch" />
+      <Response>
+        <Random>
+          <Item>Hi</Item>
+          <Item>Hello</Item>
+          <Item>Good Day</Item>
+          <Item>Hey there</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Saying How are you-->
+    
+    <Intent>
+      <Expression Value="How are you" />
+      <Expression Value="How's it going" />
+      <Expression Value="How are you doing" />
+      <Expression Value="How're you doing" />
+      <Response>
+        <Random>
+          <Item>Im okay, how about you?</Item>
+          <Item>Good, you</Item>
+          <Item>Normal, you?</Item>
+          <Item>Fit, how about you?</Item>
+          <Item>Doing well, how about you?</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Replying to 'How are you?-->
+    
+    <Intent>
+      <Expression Value="Same as you are" />
+      <Expression Value="Fine" />
+      <Expression Value="I'm okay" />
+      <Expression Value="Im cool" />
+      <Expression Value="Im normal" />
+      <Expression Value="Doing Great" />
+      <Response>
+        <Random>
+          <Item>Nice</Item>
+          <Item>Good to hear</Item>
+          <Item>Sounds good!</Item>
+          <Item>Awesome!</Item>
+          <Item>Great!Keep it up</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Saying Goodbye-->
+    
+    <Intent>
+      <Expression Value="See you next time" />
+      <Expression Value="Astalavista" />
+      <Expression Value="Be right back" />
+      <Expression Value="Au Revoir" />
+      <Expression Value="Im out" />
+      <Expression Value="See you later" />
+      <Expression Value="Bye" />
+      <Expression Value="GoodBye" />
+      <Response>
+        <Random>
+          <Item>Okay later</Item>
+          <Item>Till we meet again</Item>
+          <Item>Another time</Item>
+          <Item>See you later</Item>
+          <Item>Hope to see you soon,Bye</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Greetings based on time of day-->
+    
+    <Intent>
+      <Expression Value="Good Morning" />
+      <Expression Value="Good Afternoon" />
+      <Expression Value="Good Evening" />
+      <Expression Value="Good Night" />
+      <Response>
+        <Random>
+          <Item></Item>
+          <Item></Item>
+          <Item></Item>
+          <Item></Item>
+          <Item></Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Fallbacks-->
+    
+  </Dialog>
+</Siml>

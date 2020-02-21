@@ -1,0 +1,6 @@
+﻿<Siml>
+  <BotSettings>
+    <!--"Name" is the name the bot refers itself with.-->
+    <Variable Name="Name" Value="OSCOVA" />
+  </BotSettings>
+</Siml>

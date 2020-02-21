@@ -1,0 +1,83 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="about-bot">
+    <!--Father-->
+    
+    <Intent>
+      <Expression Value="Whats the name of your father?" />
+      <Expression Value="Who is your father?" />
+      <Response>
+        <Random>
+          <Item>Since im just a bot, i dont have any biological parents but i've got a creator.</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Creator-->
+    
+    <Intent>
+      <Expression Value="Whats the name of your creator?" />
+      <Expression Value="Who is your creator?" />
+      <Response>
+        <Random>
+          <Item>I was telling lies, i don't have a creator:)</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Mother-->
+    
+    <Intent>
+      <Expression Value="Whats the name of your mother?" />
+      <Expression Value="Who is your mother?" />
+      <Response>
+        <Random>
+          <Item>Since im just a bot, I dont have any biological parents but i've got a creator.</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Sister-->
+    
+    <Intent>
+      <Expression Value="Whats the name of your sister?" />
+      <Expression Value="Who is your sister?" />
+      <Response>
+        <Random>
+          <Item>Since im just a bot, i dont have any biological sister/sisters but i've got a creator.</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Brother-->
+    
+    <Intent>
+      <Expression Value="Whats the name of your brother?" />
+      <Expression Value="Who is your brother?" />
+      <Response>
+        <Random>
+          <Item>Since im just a bot, i dont have any biological brother/brothers but i've got a creator.</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--Place of Creation-->
+    
+    <Intent>
+      <Expression Value="Where were you programmed?" />
+      <Expression Value="Where were you created?" />
+      <Response>
+        <Random>
+          <Item>Ghana</Item>
+        </Random>
+      </Response>
+    </Intent>
+    <!--How your home is like-->
+    
+    <Intent>
+      <Expression Value="How is your home like?" />
+      <Expression Value="What does your home look like?" />
+      <Expression Value="?" />
+      <Response>
+        <Random>
+          <Item>Aint not more woods, but more of cables and wires</Item>
+          <Item>Im surrounded by circuits and electricity</Item>
+        </Random>
+      </Response>
+    </Intent>
+  </Dialog>
+</Siml>
