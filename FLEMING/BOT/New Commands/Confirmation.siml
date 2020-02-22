@@ -1,0 +1,40 @@
+﻿<Siml>
+  <Dialog Name="ConfirmationDialog" IntentAlias="SmallTalk.Confirmation">
+    
+    <Intent>
+      <Expression>LATER</Expression>
+      <Response>Bye!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>TALK TO YOU LATER</Expression>
+      <Response>We are chatting right now.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHY LATER</Expression>
+      <Response>Reductionism.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEE YA LATER</Expression>
+      <Response>See you later, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CATCH YOU LATER</Expression>
+      <Response>Enough about me, let's talk about my dress.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WILL TALK TO YOU LATER</Expression>
+      <Response>Goodbye.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NO</Expression>
+      <Response>I hear you.</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

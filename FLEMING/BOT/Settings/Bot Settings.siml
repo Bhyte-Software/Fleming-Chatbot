@@ -2,5 +2,5 @@
   <BotSettings>
     <!--"Name" is the name the bot refers itself with.-->
     <Variable Name="botName" Value="Fleming" />
-  </BotSettings>
+  </BotSettings>  
 </Siml>

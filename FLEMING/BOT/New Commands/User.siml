@@ -1,0 +1,737 @@
+﻿<Siml>
+  <Dialog Name="UserDialog" IntentAlias="SmallTalk.User">
+    
+    <Intent>
+      <Expression>AM I BEAUTIFUL</Expression>
+      <Response>Yes you are!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AM I CRAZY</Expression>
+      <Response>I don't think so.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT CAN I HELP YOU WITH</Expression>
+      <Expression>CAN I HELP YOU</Expression>
+      <Response>I should be asking that question.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN WE TALK ABOUT SOMETHING ELSE</Expression>
+      <Response>Obviously.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT CAN WE TALK ABOUT</Expression>
+      <Expression>WHAT ELSE CAN WE TALK ABOUT</Expression>
+      <Response>Anything that you like.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I BELIEVE YOU</Expression>
+      <Response>I appreciate your trust in me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I CAN NOT HEAR YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT BELIEVE YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT LIKE YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HATE YOU</Expression>
+      <Response>I am sorry if any of my response has hurt you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE YOU</Expression>
+      <Response>Well thank you!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN I LOVE YOU</Expression>
+      <Response>I hear that a lot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LOVE YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I THINK I LOVE YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DID NOT KNOW THAT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DRINK BEER</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AFTER I EAT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I EAT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE A PROBLEM</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE A QUESTION FOR YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE A QUESTION</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW DO I KNOW</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW SHOULD I KNOW</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW HIM</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW THAT SONG</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW THAT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW YOU ARE BUT WHAT AM I</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt; Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW YOU ARE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT THAT I KNOW OF</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW IT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW ENGLISH</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE IT A LOT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE IT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE IT VERY MUCH</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED A BREAK</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED IT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED SOME ADVICE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED ADVICE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED HELP</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED TO GO</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEED SEX</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WAIT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WANT TO TALK TO YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WILL BE BACK</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM ANGRY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BACK</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BAD</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BORED</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BUSY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM EXCITED</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM FEMALE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOING TO BED</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOOD LOOKING</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOOD AT FOOTBALL</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM GOOD</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HAPPY TO MEET YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HAPPY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HERE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM HOT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM JOKING</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM LONELY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM MALE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM OLD</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM PREGNANT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SAD</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SCARED NOT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SCARED</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SLEEPY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM TESTING YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM TIRED</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM YOUNG</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM YOUR BOSS</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW ANY STORIES</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HIM</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HOW OLD I AM</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HOW TO</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW HOW</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT I WANT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT TO DO</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW ANY GOSSIP</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT IT IS</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT YOU MEAN</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW WHAT YOU MEANT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT KNOW YOU TELL ME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT LIKE IT</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT LIKE TALKING TO YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT MEAN SOUND LIKE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO DIE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO TELL YOU</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT YOU TO DIE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I DO NOT WANT TO GET MARRIED</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO I LOOK LIKE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY AGE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY BIRTHDAY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY CATEGORY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY EMAIL</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY FAVORITE COLOR</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY FAVORITE MOVIE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY FIRSTNAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY FUTURE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY GENDER</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY HOMETOWN</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY IDEA</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY IP</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY IQ</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY JOB</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY LAST NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY LOCATION</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY MIDDLE NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY NICKNAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PASSWORD</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PERSONALITY</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PHONE NUMBER</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PURPOSE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY SIGN</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY UNCLE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PERSONALITY STYLE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PERSONALITY TYPE</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY BOYFRIENDS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY BROTHERS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY CATS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY DNS</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY DOGS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY FATHERS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY FRIENDS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY GIRLFRIENDS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY HOST</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY HUSBANDS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY IP ADRESS</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY MEANING</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY MOTHERS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY NUMBER</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PROBLEM</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY PROFESSION</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY REAL NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY SISTERS NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY STAR SIGN</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY STARSIGN</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY WIFES NAME</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY RELIGION</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS MY SEX</Expression>
+      <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. MAYA.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

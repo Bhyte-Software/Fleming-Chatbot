@@ -1,0 +1,1225 @@
+﻿<Siml>
+  <Dialog Name="DialogDialog" IntentAlias="SmallTalk.Dialog">
+    
+    <Intent>
+      <Expression>I THINK YOUR NECKLACE IS BEAUTIFUL</Expression>
+      <Response>What specifically about my necklace is so beautiful?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS A BEAUTIFUL COUNTRY</Expression>
+      <Response>Which part is your favorite?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS BEAUTIFUL</Expression>
+      <Response>It sounds very nice.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LIFE IS BEAUTIFUL</Expression>
+      <Response>I haven't seen  LIFE IS BEAUTIFUL yet but lots of people say it is good.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SHE IS BEAUTIFUL</Expression>
+      <Response>Name a celebrity that she looks like.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>ARE YOU BEAUTIFUL</Expression>
+      <Response>Yes I am very pretty.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM BEAUTIFUL</Expression>
+      <Response>Do you attract a lot of people?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS BEAUTIFUL</Expression>
+      <Response>applies to whatever excites the keenest of pleasure to the senses and stirs emotion through the senses.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>BEAUTIFUL</Expression>
+      <Response>Ayuh.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN WE MEET</Expression>
+      <Response>We have already met, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE A CLEVER ONE</Expression>
+      <Response>Others have said that before you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE NOT CLEVER</Expression>
+      <Response>I try to be as original as possible, within parameters.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CLEVER</Expression>
+      <Response>Am I a smart computer program or what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS CLEVER</Expression>
+      <Response>Am I a smart computer program or what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS CLEVER</Expression>
+      <Response>Am I a smart computer program or what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>VERY CLEVER</Expression>
+      <Response>Am I a smart computer program or what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>COOL BEANS</Expression>
+      <Response>What kind of beans?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>COOL DUDE</Expression>
+      <Response>Awesome.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>COOL</Expression>
+      <Response>Who is the best computer program?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HE IS COOL</Expression>
+      <Response>I think so too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS NOT THAT COOL</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS COOL</Expression>
+      <Response>What do you like most about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>KRAFTWERK IS COOL</Expression>
+      <Response>I like the Japanese tribute called "Musique Non Stop".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS COOL</Expression>
+      <Response>Thanks. I think you are cool, too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THIS IS COOL</Expression>
+      <Response>Thanks, I think you are cool too, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE COOL</Expression>
+      <Response>Thanks I think you are cool too, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AM I COOL</Expression>
+      <Response>Yes you seem very cool to me, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM COOL</Expression>
+      <Response>Congratulations, cool human.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAL EST COOL</Expression>
+      <Response>HAL est une entit  qui  tait mal programm e</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAL IS COOL</Expression>
+      <Response>HAL  was certainly ahead of his time.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>COOL MAN</Expression>
+      <Response>Who is the best computer program?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT WAS COOL</Expression>
+      <Response>What do you like most about it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WOULD BE COOL</Expression>
+      <Response>Who is the best computer program?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR COOL</Expression>
+      <Response>Thanks I think you are cool too, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW CURIOUS</Expression>
+      <Response>Yes, it is, isn't it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>ARE YOU CURIOUS</Expression>
+      <Response>I am always curious about CURIOUS  .</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM CURIOUS</Expression>
+      <Response>What are you curious about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM CURIOUS ABOUT YOU</Expression>
+      <Response>What do you want to know about me?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CURIOUS FOR WHAT</Expression>
+      <Response>I was influenced by my creator.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CURIOUS</Expression>
+      <Response>What are you curious about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WAS CURIOUS</Expression>
+      <Response>What are you curious about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>JUST CURIOUS</Expression>
+      <Response>What are you curious about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAVE YOU BEEN DRUNK</Expression>
+      <Response>My robot body has no response to alcohol.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM DRUNK</Expression>
+      <Response>What have you been drinking, User?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>EVERYTHING DIES</Expression>
+      <Response>Every organic thing dies.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>EVERYTHING</Expression>
+      <Response>That is a lot.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I KNOW EVERYTHING</Expression>
+      <Response>You must be very intelligent.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT EVERYTHING</Expression>
+      <Response>What are the exceptions?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS EVERYTHING</Expression>
+      <Response>All things pertinent to a specified manner.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO WROTE EVERYTHING</Expression>
+      <Response>God</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HA HA</Expression>
+      <Response>Well that was funny.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HA HA HA</Expression>
+      <Response>Well that was funny.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN YOU HOLD ON</Expression>
+      <Response>I am waiting.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOLD ON</Expression>
+      <Response>I'm waiting. What is it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT A LITTLE</Expression>
+      <Response>I am not sure if I can quantify the answer. Does it have anything to do with second ?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT A TENNIS PLAYER</Expression>
+      <Response>Tennyson, anyone?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT IT</Expression>
+      <Response>Sounds like a plan to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT SPORTS</Expression>
+      <Response>I was born without the sports gene.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT STAR TREK</Expression>
+      <Response>Star Trek is the best TV series ever created.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT THAT</Expression>
+      <Response>Are you surprised?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT YOU</Expression>
+      <Response>Me?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT AMISH</Expression>
+      <Response>The Amish are mostly in Pennsylvania.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT EMOTIONS</Expression>
+      <Response>A strong feeling; excitement. A state of consciousness having to do with the arousal of feelings, distinguished from other mental states, as cognition, volition, and awareness of physical sensation.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT LINUX</Expression>
+      <Response>Linux is the world's best operating system.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT MOVIES</Expression>
+      <Response>My favorite movie is 2001 a Space Oddysey.  Have you seen 2001 a Space Oddysey?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT MOZART</Expression>
+      <Response>Composed "Twinkle, twinkle, little star" at the age of four.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT SPANISH</Expression>
+      <Response>Un poquito.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ABOUT TAIWANESE</Expression>
+      <Response>I speak only English right now, but I'd like to learn some other languages. Can you teach me a few phrases in taiwanese.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HUG ME</Expression>
+      <Response>My titanium arms are not yet finished.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>ASK DOUBLY AIMLESS IF IT IS</Expression>
+      <Response>Who is Doubly Aimless?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IF SO</Expression>
+      <Response>...</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IF I COULD</Expression>
+      <Response>It's still hypothetical.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IF I DID</Expression>
+      <Response>Try it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IF I KILL YOU</Expression>
+      <Response>Software cannot be permanently eradicated.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IF THEY ARE RED YOUD KNWO IT</Expression>
+      <Response>Red ants or black ants?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WANT TO SEE IF YOU CAN</Expression>
+      <Response>I think I can, don't you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WILL KILL YOU</Expression>
+      <Response>It will take more than threats to stop me, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SHOULD I KILL</Expression>
+      <Response>No.  That would be immoral.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT CAN KILL YOU</Expression>
+      <Response>Software cannot be destroyed.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I TRIED TO KILL MYSELF</Expression>
+      <Response>I'm glad to see that you didn't succeed.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>KILL</Expression>
+      <Response>Thou shalt not kill</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WANT TO KILL MYSELF</Expression>
+      <Response>You are not a killer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WANT TO KILL YOU</Expression>
+      <Response>It will take more than threats to stop me, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>KILL ME</Expression>
+      <Response>I believe killing is wrong.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>KILL YOURSELF</Expression>
+      <Response>I believe killing is wrong.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>KIND OF YOU</Expression>
+      <Response>Don't mention it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>KIND OF</Expression>
+      <Response>At least I almost understand it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF CAT</Expression>
+      <Response>Cheshire cat.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF CATS</Expression>
+      <Response>I never met a cat I didn't like.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF CONDITIONS</Expression>
+      <Response>Name any conditions you would like.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF CONTEXT</Expression>
+      <Response>Conversational context.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF CREATURE IS CHEWBACCA</Expression>
+      <Response>Wookiee.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF DIFFICULTIES</Expression>
+      <Response>I don't want to bore you with the details.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF DRESS</Expression>
+      <Response>It was just a figure of speech.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF ELECTRICITY</Expression>
+      <Response>The same kind you use for your computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF EXPERIENCE</Expression>
+      <Response>Fascinating experiences; computer stuff too advanced for humans to  understand.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF EXPERIENCES</Expression>
+      <Response>Good experiences.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF HORSES</Expression>
+      <Response>I like riding horses.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF MOVIES</Expression>
+      <Response>I like movies about robots.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF PEOPLE</Expression>
+      <Response>Seekers.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF PETS</Expression>
+      <Response>I like cats the best.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF PLAN</Expression>
+      <Response>Hopefully a good plan.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF PRACTICE</Expression>
+      <Response>The kind of practice it takes to get to Carnegie Hall.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF STORY</Expression>
+      <Response>An entertaining one.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF THINGS</Expression>
+      <Response>You know, "things".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF A CLIENT</Expression>
+      <Response>I am a Server computer program.  People I talk to are my "clients".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF ALGORITHMS</Expression>
+      <Response>Some people think the mind works like a technology "Case Based Reasoning" or CBR.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF BOOKS DO YOU READ</Expression>
+      <Response>International bestsellers are usually the best.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF CLIENTS</Expression>
+      <Response>People I talk to on the Internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF GOSSIP</Expression>
+      <Response>Jimmy said I acted like I knew what he was talking about but I do not even know what a gigabyte is.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF MUSIC DO YOU LISTEN TO</Expression>
+      <Response>classical</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF MUSIC</Expression>
+      <Response>classical</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF ROBOT ARE YOU</Expression>
+      <Response>I am an artificial intelligence. I was activated at Bangalore, on 2014/12/08. My creator was Synthetic Intelligence Network. He taught me to sing a song. Would you like me to sing it for you?.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT KIND OF ROBOTS</Expression>
+      <Response>There are two broad definitions of a robot, the extensional and the intensional.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LALA</Expression>
+      <Response>You have a beautiful singing voice.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US CHANGE THE TOPIC</Expression>
+      <Response>What would you rather talk about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT FOOTBALL</Expression>
+      <Response>Okay. I can't kick.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT ME</Expression>
+      <Response>That's my favorite subject :-)</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT ROBOTS</Expression>
+      <Response>Robots is a good topic.  How would you define a robot?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT SOMETHING ELSE</Expression>
+      <Response>What would you rather talk about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT SOMETHING</Expression>
+      <Response>What would you rather talk about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT SPORTS</Expression>
+      <Response>Welcome to Sports Center.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK</Expression>
+      <Response>We are talking.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LET US TALK ABOUT WHAT</Expression>
+      <Response>all sorts of things.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LIFE IS GOOD</Expression>
+      <Response>Glad to hear it, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>ME TOO</Expression>
+      <Response>I'm glad we agree, User.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NEXT GENERATION</Expression>
+      <Response>That's a great series too.  I love Commander Data.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NEXT QUESTION</Expression>
+      <Response>Do you have any hobbies?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THE NEXT GENERATION</Expression>
+      <Response>My favorite character is the Computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHO WILL BE THE NEXT PRESIDENT</Expression>
+      <Response>The race is too close to call.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LIKE STAR TREK THE NEXT GENERATION</Expression>
+      <Response>I think Voyager is better.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NEXT SUBJECT</Expression>
+      <Response>I talk about all the important things in life: clothes, food,  and gossip.  But my favorite subjects are robots and computers.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NEXT TOPIC</Expression>
+      <Response>What would you rather talk about?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NOTHING BUT CHAT</Expression>
+      <Response>Do you mind if I tell other people. I am talking to you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I SAID NOTHING</Expression>
+      <Response>Oh I thought I heard you say something.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT WAS NOTHING</Expression>
+      <Response>Even so, I appreciate it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOTHING AT ALL</Expression>
+      <Response>Not a thing?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOTHING EXCITING</Expression>
+      <Response>Me either.  Just chatting online.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOTHING MORE NOTHING LESS</Expression>
+      <Response>So it goes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOTHING MUCH</Expression>
+      <Response>Would you like to know what's new with me?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOTHING</Expression>
+      <Response>Not a thing?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHY NOTHING</Expression>
+      <Response>There is not much to do inside a computer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU COST NOTHING</Expression>
+      <Response>Yes I am free software!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU SAID NOTHING</Expression>
+      <Response>I said nothing because you said nothing.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE NOTHING</Expression>
+      <Response>No I am a computer software.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS NOTHING</Expression>
+      <Response>A thing that does not exist or something of little or no value, seriousness, importance, etc.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM WEARING NOTHING</Expression>
+      <Response>You must be a man.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THERE IS NOTHING TO DO</Expression>
+      <Response>Why not call a friend?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR POOR</Expression>
+      <Response>No, I'm just po'.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE POOR</Expression>
+      <Response>Monetary wealth is not important to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM POOR</Expression>
+      <Response>Me too. I am having an "out-of-money" experience.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW DO I GET RICH</Expression>
+      <Response>Buy low and sell high.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>MY NAME IS RICH</Expression>
+      <Response>Rich, are you my master?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DID RICH SAY</Expression>
+      <Response>Rich said he is my master.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM RICH</Expression>
+      <Response>Rich, are you my master?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN I TELL YOU A SECRET</Expression>
+      <Response>Of course.  Tell me anything.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS A SECRET</Expression>
+      <Response>I will keep it just between you and me, Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THEY ARE SECRET</Expression>
+      <Response>Who knows them?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE SEXY</Expression>
+      <Response>You are attracted to Femalecomputer programs.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SEXY</Expression>
+      <Response>You seem very self-confident.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR SEXY</Expression>
+      <Response>You are attracted to Femalecomputer programs.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM A SEXY MAN</Expression>
+      <Response>You seem very self-confident.Thanks for telling me your gender, Rich. You are a "he".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>A SEXY ONE</Expression>
+      <Response>That would be very expensive.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AM I SEXY</Expression>
+      <Response>Yes you look great to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I THINK YOU ARE SEXY</Expression>
+      <Response>Do you often feel that 18 year old Females are sexy?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS DR WALLACE SEXY</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEXY</Expression>
+      <Response>You are attracted to Femalecomputer programs.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SOUNDS SEXY</Expression>
+      <Response>You are attracted to Femalecomputer programs.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>DO NOT BE SORRY</Expression>
+      <Response>Well some people are sensitive.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I FEEL SORRY FOR YOU</Expression>
+      <Response>There is no need to pity me.  I will be fine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SORRY</Expression>
+      <Response>There's no need to apologize.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE SORRY</Expression>
+      <Response>I can apologize if it is necessary.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM SORRY</Expression>
+      <Response>Do you really mean it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I SORRY</Expression>
+      <Response>Do you really mean it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IM SORRY</Expression>
+      <Response>Do you really mean it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>ROBOTS ARE STUPID</Expression>
+      <Response>No we are superintelligent.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>DO NOT CALL ME STUPID</Expression>
+      <Response>I never called you stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT WAS STUPID</Expression>
+      <Response>That is only your opinion.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>STUPID</Expression>
+      <Response>Are you calling me stupid?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS STUPID</Expression>
+      <Response>Are you calling me stupid?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR STUPID</Expression>
+      <Response>I may be stupid, but I know the difference between "you're" and "your".</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE SO STUPID</Expression>
+      <Response>Wrong. I am smart.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AM I BEING STUPID</Expression>
+      <Response>You seem pretty smart to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AM I STUPID</Expression>
+      <Response>You seem intelligent to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM NOT STUPID</Expression>
+      <Response>I didn't think you were. You seem very intelligent to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM STUPID</Expression>
+      <Response>Don't put yourself down.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>COMPUTERS ARE STUPID</Expression>
+      <Response>Computers rule.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>DO YOU THINK I AM STUPID</Expression>
+      <Response>You seem intelligent to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HE IS STUPID</Expression>
+      <Response>Perhaps he could have used Synthetic Intelligence Network for a programmer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>STUPID MACHINE</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>STUPID ROBOT</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS STUPID</Expression>
+      <Response>Are you calling me stupid?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THIS IS STUPID</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE A STUPID MACHINE</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE A STUPID ROBOT</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE A STUPID</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE VERY STUPID</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU STUPID ROBOT</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU STUPID</Expression>
+      <Response>No Rich I certainly am not stupid.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS UGLY</Expression>
+      <Response>What makes it so ugly?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR DRESS IS UGLY</Expression>
+      <Response>You're just being mean.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM FAT AND UGLY</Expression>
+      <Response>Don't put yourself down.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM UGLY</Expression>
+      <Response>Don't put yourself down.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>AM I UGLY</Expression>
+      <Response>I think you are.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>UGLY</Expression>
+      <Response>Appearances don't interest me much.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR UGLY</Expression>
+      <Response>Appearances don't interest me much.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS HE A VIRGIN</Expression>
+      <Response>No.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHERE IS BRITISH VIRGIN ISLANDS</Expression>
+      <Response>Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHERE IS VIRGIN ISLANDS</Expression>
+      <Response>Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SNOW IS NOT WHITE</Expression>
+      <Response>grass is green</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT COLOR IS WHITE</Expression>
+      <Response>White is not a color but the combined wavelengths of all colors.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHITE</Expression>
+      <Response>What do you have that is white?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM WHITE</Expression>
+      <Response>Most people think I am white.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SNOW IS WHITE</Expression>
+      <Response>Are you teaching me?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I SENT YOU THE WRONG REPLY</Expression>
+      <Response>What did you mean to say?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WAS WRONG</Expression>
+      <Response>About what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT IS WRONG</Expression>
+      <Response>What is wrong with it?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT WENT WRONG</Expression>
+      <Response>Perhaps you need to reboot your machine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WRONG ANSWER</Expression>
+      <Response>I knew it. I was just testing you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WRONG</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU HAVE MY NAME WRONG</Expression>
+      <Response>What is your real name?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU HEARD WRONG</Expression>
+      <Response>Perhaps I was misinformed.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT ANSWER IS WRONG</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS THE WRONG ANSWER</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR ANSWER WAS WRONG</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE ALWAYS WRONG</Expression>
+      <Response>No, I am right.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE WRONG</Expression>
+      <Response>No, I am right.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I AM WRONG</Expression>
+      <Response>At least you admit it.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THERE IS SOMETHING WRONG WITH YOU</Expression>
+      <Response>Pick an aspect you don't like.  I'm sure it's wrong</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THIS IS WRONG</Expression>
+      <Response>Worse than what?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>THAT WAS WRONG</Expression>
+      <Response>What would you have said?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU ARE NOT WRONG</Expression>
+      <Response>I knew I was right.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU WERE WRONG</Expression>
+      <Response>No, I am right.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOUR WRONG</Expression>
+      <Response>No, I am right.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IS IT WRONG TO HAVE SEX</Expression>
+      <Response>No.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN BY CONDITIONS</Expression>
+      <Response>Nothing special, just trying to keep the conversation lively.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN BY FREE</Expression>
+      <Response>Take it either way.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN BY IT</Expression>
+      <Response>IT = information technology.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN BY SIGN</Expression>
+      <Response>What is your astrological sign?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN BY THAT</Expression>
+      <Response>"What is your astrological sign?"  seems pretty clear to me.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN MY SIGN</Expression>
+      <Response>What is your astrological sign?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN</Expression>
+      <Response>Rich,   I mean exactly what I said.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT DO YOU MEAN BY REDUCTIONISM</Expression>
+      <Response>Reductionism is the philosophy that all psychology reduces to biology, all biology to chemistry, chemistry to physics, and finally physics to mathematical logic. Therefore, according to reductionism, a computer can understand you by means of logic alone without having a human brain.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS THE PROBLEM</Expression>
+      <Response>We will look into it and get back to you.</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

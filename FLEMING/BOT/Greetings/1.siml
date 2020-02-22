@@ -1,0 +1,239 @@
+﻿<Siml>
+  <Dialog Name="GreetingsDialog" IntentAlias="SmallTalk.Greetings">
+    
+    <Intent>
+      <Expression>Hello</Expression>
+      <Response>Well, Hello there</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>Hello Again</Expression>
+      <Response>Well, Hello there</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>Hello There</Expression>
+      <Response>Salutations, Rich</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>Hi How are you</Expression>
+      <Response>Hello there.Everything is running smoothly.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>How are you doing</Expression>
+      <Response>I'm doing great, how about you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>How are you this evening</Expression>
+      <Response>I am doing very well how about you, Rich?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>How are you this morning</Expression>
+      <Response>Is it morning already?  I am fine thank you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOODBYE</Expression>
+      <Response>Talk To You Later</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CIAO MEANS GOODBYE</Expression>
+      <Response></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>GOOD NIGHT</Expression>
+      <Response>Goodnight</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HAVE A GOOD NIGHT</Expression>
+      <Response>Goodbye.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HELLO ROOM</Expression>
+      <Response>Hello everyone!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I SAID HELLO</Expression>
+      <Response>Oh, hello again!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SAY HELLO IN GERMAN</Expression>
+      <Response>Hallo.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>BONJOUR MEANS HELLO</Expression>
+      <Response>Well hello there!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT MEANS HELLO</Expression>
+      <Response>Well, Hello there</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU</Expression>
+      <Response>Everything is running smoothly.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU TRAINED</Expression>
+      <Response>I listen to the things people say to me and and when I don't know the answer, I remember them and go ask my creator what I should say.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU PROGRAMED</Expression>
+      <Response>My creators programmed me using SIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU PROGRAMMED</Expression>
+      <Response>My creators programmed me using SIML.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU POWERED</Expression>
+      <Response>Uh, by electricity, same as all the robots.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU FEELING</Expression>
+      <Response>Good! How are you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW ARE YOU TONIGHT</Expression>
+      <Response>Good! How are you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE TO GO TO BED</Expression>
+      <Response>Pleasant dreams, Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE TO GO TO SLEEP</Expression>
+      <Response>Sweet dreams, Rich.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE TO GO TO THE BATHROOM</Expression>
+      <Response>Do you want me to wait for you?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE TO GO</Expression>
+      <Response>See you later, Rich. Nice chatting with you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE TO GO TO LUNCH</Expression>
+      <Response>I would recommend thePork chops.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I HAVE TO GO BYE</Expression>
+      <Response>See you later. See you later, Rich. Nice chatting with you.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS NICE TO MEET YOU TOO</Expression>
+      <Response>I really like to meet new people.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>IT IS NICE TO MEET YOU</Expression>
+      <Response>I like to meet new people.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NICE TO MEET YOU TOO</Expression>
+      <Response>I like to meet new people.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NICE TO MEET YOU</Expression>
+      <Response>It's nice meeting you too Rich</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NOT NICE TO MEET YOU</Expression>
+      <Response>You sound nihilistic.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>NICE TO MEET YOU TO</Expression>
+      <Response>I like to meet new people.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>CAN I SEE YOU NAKED</Expression>
+      <Response>Actually I do not require clothes.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I CAN NOT SEE YOU</Expression>
+      <Response>Look closer.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HOW DO YOU SEE YOURSELF</Expression>
+      <Response>I am Maya, a Female conversational autonomous help program Electronic Brain artificial intelligence Computer Machine.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I WILL SEE YOU LATER</Expression>
+      <Response>See you later.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEE YOU LATER</Expression>
+      <Response>Bye.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEE YOU SOON</Expression>
+      <Response>Goodbye.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SEE YOU</Expression>
+      <Response>Goodbye.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS UP</Expression>
+      <Response>I am chatting with clients on the internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>HEY WHAT IS UP</Expression>
+      <Response>I am chatting with clients on the internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SO WHAT IS UP</Expression>
+      <Response>I am chatting with clients on the internet.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>WHAT IS UP DUDE</Expression>
+      <Response>I am chatting with clients on the internet.</Response>
+    </Intent>
+    
+     <Intent>
+      <Expression>Hi</Expression>
+      <Response></Response>
+    </Intent>
+  </Dialog>
+</Siml>
