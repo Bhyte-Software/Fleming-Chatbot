@@ -1,0 +1,23 @@
+﻿<Siml xmlns:x="http://syn.co.in/2014/siml#external">
+  <Dialog> Name="Nested Modeling"&gt;
+
+    <Intent>
+      <Expression>EXIT APPLICATION</Expression>
+      <Response>Are you sure?</Response>
+         </Intent>
+      
+      <Intent>
+      <Expression>yes</Expression>
+        <Response>
+          <x:Demo>Exit</x:Demo>
+        </Response>
+      </Intent>
+
+      <Intent>
+        <Expression>no</Expression>
+        <Response>Application shutdown cancelled.</Response>
+      </Intent>
+
+    
+  </Dialog>
+</Siml>

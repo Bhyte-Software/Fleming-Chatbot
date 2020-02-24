@@ -1,0 +1,23 @@
+﻿<Siml>
+<Dialog>
+
+<Intent>
+      <Expression>TOSS A COIN</Expression>
+      <Response>
+        <Random>Coin tossed. It's (Heads|Tails).</Random>
+      </Response>
+    </Intent>
+
+    <Intent>
+      <Expression>I FEEL LUCKY</Expression>
+      <Response>Me too!</Response>
+    </Intent>
+
+    <Intent>
+      <Expression>WHAT DID YOU JUST SAY</Expression>
+      <Response>I said "<Output />"</Response>
+    </Intent>
+
+  </Dialog>
+
+</Siml>

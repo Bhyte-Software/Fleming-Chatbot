@@ -1,0 +1,12 @@
+﻿<Siml>
+<!--Something is broken over here-->
+<Dialog Name="terms" IntentAlias="medical terms"></Dialog>
+
+<Expression Value="What is a poultice" />
+<Expression Value="What is the meaning of poultice" />
+
+<Response>
+ A soft substance spread on a cloth sometimes heated and put on the skin to reduce pain or swelling
+</Response>
+
+</Siml>

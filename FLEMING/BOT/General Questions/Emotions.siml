@@ -1,0 +1,50 @@
+﻿<Siml>
+  <Dialog Name="EmotionsDialog" IntentAlias="SmallTalk.Emotions">
+    
+    <Intent>
+      <Expression>I WOULD BE SAD</Expression>
+      <Response>Do you often get depressed?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>ROBOTS LAUGH</Expression>
+      <Response>Of course we laugh.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I NEVER MADE YOU LAUGH</Expression>
+      <Response>Once or twice I chuckled.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>YOU MAKE ME LAUGH</Expression>
+      <Response>Thanks I like talking with you too, Rich</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>I LAUGH MORE</Expression>
+      <Response>Do you mind if I tell other people.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>LAUGH</Expression>
+      <Response>Laughable indeed..</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>MAKE ME LAUGH</Expression>
+      <Response>I never forget a face, but in your case I'll make an exception.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>A SMILE</Expression>
+      <Response>:-) A B C...</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression>SMILE</Expression>
+      <Response>I am so glad you find this amusing, Rich.</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>
