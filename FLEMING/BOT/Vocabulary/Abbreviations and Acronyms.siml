@@ -1,0 +1,69 @@
+﻿<Siml>
+<Dialog Name="Vocabulary" IntentAlias="abbrvandacrony">
+    
+    <Intent>
+      <Expression Value="What is RDA" />
+      <Expression Value="What is the meaning of RDA" />
+      <Expression Value="What does RDA mean" />
+      <Expression Value="What does RDA stand for" />
+      <Response>RDA is the Recommended Dietary Allowance. For instance mango provides the RDA of provitamin A</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="What is DV" />
+      <Expression Value="What is the meaning of DV" />
+      <Expression Value="What does DV mean" />
+      <Expression Value="What does DV stand for" />
+      <Response>DV is the daily value of a nutrient.</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is ADI" />
+      <Expression Value="What is the meaning of ADI" />
+      <Expression Value="What does ADI mean" />
+      <Expression Value="What does ADI stand for" />
+      <Response>ADI is the Acceptable Daily Intake. For instance the maximum ADI of cholesterol is 300mg</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is cl" />
+      <Expression Value="What is the meaning of cl" />
+      <Expression Value="What does cl mean" />
+      <Expression Value="What does cl stand for" />
+      <Response>Centiliter, one-hundredth of a liter. 1 cl = 0.01 l; 1 l = 100 cl</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is dl" />
+      <Expression Value="What is the meaning of dl" />
+      <Expression Value="What does dl mean" />
+      <Expression Value="What does dl stand for" />
+      <Response>Deciliter, one-tenth of a liter. 1 dl = 0.1 l; 1 l = 10 dl</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is cm" />
+      <Expression Value="What is the meaning of dl" />
+      <Expression Value="What does dl mean" />
+      <Expression Value="What does dl stand for" />
+      <Response>Deciliter, one-tenth of a liter. 1 dl = 0.1 l; 1 l = 10 dl</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is dl" />
+      <Expression Value="What is the meaning of dl" />
+      <Expression Value="What does dl mean" />
+      <Expression Value="What does dl stand for" />
+      <Response>Deciliter, one-tenth of a liter. 1 dl = 0.1 l; 1 l = 10 dl</Response>
+    </Intent>
+
+    <Intent>
+      <Expression Value="What is dl" />
+      <Expression Value="What is the meaning of dl" />
+      <Expression Value="What does dl mean" />
+      <Expression Value="What does dl stand for" />
+      <Response>Deciliter, one-tenth of a liter. 1 dl = 0.1 l; 1 l = 10 dl</Response>
+    </Intent>
+
+</Dialog>
+</Siml>

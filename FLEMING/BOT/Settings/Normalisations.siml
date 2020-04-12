@@ -1,5 +1,4 @@
-﻿
-<Siml>
+﻿<Siml>
   <!--Splitter: This splitter element is used split sentences into different Input values for processing.-->
   <!--Text: Splits the user input wherever the given character or sequence of characters are found. -->
   <!--Word: Splits the user input wherever the given word ( separated by SPACE ) is found.-->
@@ -34,10 +33,7 @@
     <Word>i'm</Word>
     <Word>i m</Word>
   </Filter>
-  <Filter Value="okay" Target="Output">
-    <Word>ok</Word>
-    <Text>o.k.</Text>
-  </Filter>
+ 
   <Filter Value="do not">
     <Word>don't</Word>
     <Word>don t</Word>
@@ -54,8 +50,7 @@
   <Filter Text=".au" Value="dot au" />
   <Filter Text=".co" Value="dot co" />
   <Filter Text=".ac" Value="dot ac" />
-  
-   <Filter Value="Did not">
+  <Filter Value="Did not">
     <Word>Didn't</Word>
     <Word>don t</Word>
     <Word>dont</Word>

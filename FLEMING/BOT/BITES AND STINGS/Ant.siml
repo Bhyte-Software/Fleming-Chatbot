@@ -1,5 +1,5 @@
 ﻿<Siml>
-  <Dialog Name="Ant" IntentAlias="ant-bite">
+  <Dialog Name="BitesAndStings" IntentAlias="ant-bite">
     <!--This intent does not need a name as an `IntentAlias` value has been specified-->
     
     <Intent>
