@@ -1,0 +1,21 @@
+﻿<Siml>
+  <!--How to relieve itching-->
+  <Dialog Name="Bites And Stings" IntentAlias="mosquito">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="I have been bitten by a mosquito" />
+      <Expression Value="I have a mosquito bite" />
+      <Response>
+To relieve itching: Rub the affected area with raw garlic or fresh lemon juice;
+Repeat as often as possible. Rub with damp salt or Vitamin C powder. 
+OR
+Cover the bite with Epsom salts dissolved in warm water, eucalyptus oil, aloe vera gel, lemon juice or vinegar. 
+OR                                                       
+Apply a poultice of crushed plantain leaves to the affected areas.            
+                       
+But as you preventing mosquito bites the best way to go. Do you want to know how to prevent mosquito bites</Response>
+    </Intent>
+        
+  </Dialog>
+</Siml>
