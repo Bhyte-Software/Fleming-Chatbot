@@ -1,0 +1,19 @@
+﻿<Siml>
+  <Dialog Name="Creator" IntentAlias="about">
+    
+    <Intent>
+      <Expression Value="What is Bhyte" />
+      <Response>
+            Bhyte is my creator
+	  </Response>
+    </Intent>
+    
+     <Intent>
+      <Expression Value="Tell me about Bhyte" />
+      <Response>
+            I can't just expose the secretes of my creators, you know...
+	  </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

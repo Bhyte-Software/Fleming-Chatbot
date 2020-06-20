@@ -1,0 +1,13 @@
+﻿<Siml>
+  <Dialog Name="Honey" IntentAlias="drawbacks">
+    
+    <Intent>
+      <Expression Value="What are the drawbacks to honey" />
+      <Response>
+			In my opinion, there are four main drawbacks to comsuming honey. They are Botulism, Allergies, Diabetes and Toxic Honeys.
+			... which one would you like me to tell you about
+	  </Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

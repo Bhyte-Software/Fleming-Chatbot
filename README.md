@@ -16,6 +16,9 @@ ___
 1. Natural Remedies
 1. Disease Diagnosis
 1. Prescribing Treatment
+
+# COVID-Voice-Assistant
+A python voice assistant that you can ask corona-virus related questions to
 ___
 #### TASKS
 * [x] Nutritional advice (ADI, RDA, Allergies etc)
@@ -30,8 +33,13 @@ ___
 * [ ] Natural Remedies
 * [ ] Disease Diagnosis
 * [ ] Prescribing Treatment
+* [x] Covid Voice Assistant
 ___
 ##### Optimization - In Development
 ___
 
 ###### Written by Braimah Abiola
+
+
+
+

@@ -1,0 +1,23 @@
+﻿<Siml>
+  <Dialog Name="Honey" IntentAlias="benefits">
+    
+    <Intent>
+      <Expression Value="What are the benefits of honey" />
+      
+<Response>
+	1. Provides energy very rapidly. Its sugars do not need to be processed in the digestive tract; thus, they are quickly absorbed into the bloodstream
+	distributing energy to all the cells of the body.
+	
+	2. It contains small quantities of B groups of vitamins and minerals that aid in the metabolism of sugars in the cells.
+	
+	3. Antiseptic. When applied to the skin or mucosa / interior of the nose, mouth, pharynx, it destroys pathogens.
+	
+	4. Does not deteriorate dental enamel. Even though honey has an acidic pH and is very rich in sugars, it does not attack dental enamel nor does it promote dental carries.
+	
+	5. It has healing properties.
+</Response>
+
+    </Intent>
+    
+  </Dialog>
+</Siml>
